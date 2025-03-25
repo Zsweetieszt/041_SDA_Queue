@@ -3,7 +3,7 @@
 #ifndef queue_h
 #define queue_h
 #include "boolean.h"
-#include "mainbody.h" //nama header disesuaikan dengan program linked list pribadi
+#include "linkedlist.h" //nama header disesuaikan dengan program linked list pribadi
 
 #define MAXQUEUE 10
 #define MAXTELLER 3
